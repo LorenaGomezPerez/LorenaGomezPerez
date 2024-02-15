@@ -38,9 +38,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+
   <a href="mailto:lorenagomezperez@gmail.com" target="_blank" title="Correo electrónico"><img src="./images/contact/address.png" alt="address" width="35"></a> 
-  <a href="https://www.linkedin.com/in/lorena-gomez-perez/" target="_blank" title="Perfil de Linkedin"><img src="./images/contact/linkedin.png" alt="linkedin" width="35"></a>
+  <a href="https://www.linkedin.com/in/lorena-gomez-perez/" target="_blank" title="Perfil de Linkedin">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
 </p>
 
 </div>
